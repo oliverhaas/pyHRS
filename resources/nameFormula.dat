@@ -1,0 +1,326 @@
+H   Hydrogen gas (H%2#)
+He  Helium gas
+Li  Lithium
+Be  Beryllium
+B   Boron
+C   Carbon (amorphous)
+N   Nitrogen gas  (N%2#)
+O   Oxygen gas   (O%2#)
+F   Fluorine gas  (F%2#)
+Ne  Neon gas
+Na  Sodium
+Mg  Magnesium
+Al  Aluminum
+Si  Silicon
+P   Phosphorus
+S   Sulfur
+Cl  Chlorine gas     (Cl%2#)
+Ar  Argon gas
+K   Potassium
+Ca  Calcium
+Sc  Scandium
+Ti  Titanium
+V   Vanadium
+Cr  Chromium
+Mn  Manganese
+Fe  Iron
+Co  Cobalt
+Ni  Nickel
+Cu  Copper
+Zn  Zinc
+Ga  Gallium
+Ge  Germanium
+As  Arsenic
+Se  Selenium
+Br  Bromine gas  (Br%2#)
+Kr  Krypton gas
+Rb  Rubidium
+Sr  Strontium
+Y   Yttrium
+Zr  Zirconium
+Nb  Niobium
+Mo  Molybdenum
+Tc  Technetium
+Ru  Ruthenium
+Rh  Rhodium
+Pd  Palladium
+Ag  Silver
+Cd  Cadmium
+In  Indium
+Sn  Tin
+Sb  Antimony
+Te  Tellurium
+I   Iodine
+Xe  Xenon gas
+Cs  Cesium
+Ba  Barium
+La  Lanthanum
+Ce  Cerium
+Pr  Praseodymium
+Nd  Neodymium
+Pm  Promethium
+Sm  Samarium
+Eu  Europium
+Gd  Gadolinium
+Tb  Terbium
+Dy  Dysprosium
+Ho  Holmium
+Er  Erbium
+Tm  Thulium
+Yb  Ytterbium
+Lu  Lutetium
+Hf  Hafnium
+Ta  Tantalum
+W   Tungsten
+Re  Rhenium
+Os  Osmium
+Ir  Iridium
+Pt  Platinum
+Au  Gold
+Hg  Mercury
+Tl  Thallium
+Pb  Lead
+Bi  Bismuth
+Po  Polonium
+H   Liquid hydrogen (H%2#)
+Rn  Radon
+C   Carbon (graphite)
+Ra  Radium
+Ac  Actinium
+Th  Thorium
+Pa  Protactinium
+U   Uranium
+Np  Neptunium
+Pu  Plutonium
+Am  Americium
+Cm  Curium
+Bk  Berkelium
+C   Carbon (compact)
+    A-150 tissue-equivalent plastic
+    Acetone (CH%3#CHCH%3#)
+    Acetylene (CHCH)
+    Adenine (C%5#H%5#N%5#)
+    Adipose tissue (ICRP)
+    Air (dry, 1 atm)
+    Alanine (C%3#H%7#NO%2#)
+    Aluminum oxide (Sapphire, Al%2#O%3#)
+    Amber (C%10#H%16#O)
+    Ammonia (NH%3#)
+    Aniline (C%6#H%5#NH%2#)
+    Anthracene (C%14#H%10#)
+    B-100 Bone-equivalent plastic
+    Bakelite ((C%43#H%38#O%7#)%n#)
+    Barium fluoride (BaF%2#)
+    Barium sulfate BaSO%4#
+    Benzene C%6#H%6#
+    Beryllium oxide (BeO)
+    Bismuth germanate (BGO) [(Bi%2#O%3#)%2#(GeO%2#)%3#]
+    Blood (ICRP)
+    Compact bone (ICRU)
+    Cortical bone (ICRP)
+    Boron carbide (B%4#C)
+    Boron oxide (B%2#O%3#)
+    Brain (ICRP)
+    Butane (C%4#H%10#)
+    n-Butyl alcohol (C%4#H%9#OH)
+    C-552 air-equivalent plastic
+    Cadmium telluride (CdTe)
+    Cadmium tungstate (CdWO%4#)
+    Calcium carbonate (CaCO%3#)
+    Calcium fluoride (CaF%2#)
+    Calcium oxide (CaO)
+    Calcium sulfate (CaSO%4#)
+    Calcium tungstate (CaWO%4#)
+    Carbon dioxide gas (CO%2#)
+    Carbon tetrachloride CCl%4#
+    Cellulose acetate (C%6#H%7#O%2#(OCOCH%3#)%3#)%n#
+    Cellulose acetate butyrate (C%15#H%22#O%8#)%n#
+    Cellulose nitrate (C%12#H%14#O%4#(ONO%2#)%6#)%n#
+    Ceric sulfate dosimeter solution
+    Cesium fluoride (CsF)
+    Cesium iodide (CsI)
+    Chlorobenzene C%6#H%5#Cl
+    Chloroform (CHCl%3#)
+    Shielding concrete
+    Cyclohexane (C%6#H%12#)
+    1,2-Dichlorobenzene (C%6#H%4#Cl%2#)
+    Dichlorodiethyl ether C%4#Cl%2#H%8#O
+    1,2-Dichloroethane C%2#H%4#C%12#
+    Diethyl ether ((CH%3#CH%2#)%2#O)
+    m,n-Dimethyl formamide (C%3#H%6#NOH)
+    Dimethyl sulfoxide (CH%3#)%2#SO
+    Ethane (C%2#H%6#)
+    Ethanol (C%2#H%5#OH)
+    Ethyl cellulose (C%12#H%22#O5)%n#
+    Ethylene (C%2#H%4#)
+    Eye lens (ICRP)
+    Ferric oxide (Fe%2#O%3#)
+    Ferroboride (FeB)
+    Ferrous oxide (FeO)
+    Ferrous sulfate dosimeter solution
+    Freon-12 (CF%2#Cl%2#)
+    Freon-12B2 (CF%2#Br%2#)
+    Freon-13 (CF%3#Cl)
+    Freon-13B1 (CF%3#Br)
+    Freon-13I1 C-F%3#I
+    Gadolinium oxysulfide (Gd%2#O%2#S)
+    Gallium arsenide (GaAs)
+    Gel in photographic emulsion
+    Borosilicate glass (Pyrex Corning 7740)
+    Lead glass
+    Plate glass
+    Glucose Dextrose C%6#H12-O6.H2-O
+    Glutamine (C%5#H%10#N%2#O%3#)
+    Glycerol (C%3#H%5#(OH)%3#)
+    Guanine C%5#H%5#N%5#O
+    Gypsum (plaster of Paris, CaSO%4#$\cdot$H%2#O)
+    n-Heptane C%7#H%16#
+    n-Hexane C%6#H%14#
+    Polyimide film (C%22#H%10#N%2#O%5#)%n#
+    Lanthanum oxybromide (LaOBr)
+    Lanthanum oxysulfide La%2#O%2#S
+    Lead oxide (PbO)
+    Lithium amide (LiNH%2#)
+    Lithium carbonate (Li%2#C-O%3#)
+    Lithium fluoride (LiF)
+    Lithium hydride (LiH)
+    Lithium iodide (LiI)
+    Lithium oxide Li%2#O
+    Lithium tetraborate Li%2#B%4#O%7#
+    Lung (ICRP)
+    M3 WAX
+    Magnesium carbonate MgCO%3#
+    Magnesium fluoride MgF%2#
+    Magnesium oxide MgO
+    Magnesium tetraborate MgB%4#O%7#
+    Mercuric iodide HgI%2#
+    Methane (CH%4#)
+    Methanol (CH%3#OH)
+    Mix D wax
+    MS20 tissue substitute
+    Skeletal muscle (ICRP)
+    Striated muscle (ICRU)
+    Muscle-equivalent liquid with sucrose
+    Muscle-equivalent liquid without sucrose
+    Naphtalene (C%10#H%8#)
+    Nitrobenzene C%6#H%5#NO%2#
+    Nitrous oxide N%2#O
+    Nylon du Pont Elvamide 8062M
+    Nylon (type 6, 6/6)  [CH(CH%2#)%5#NO]%n#
+    Nylon type 6/10 [CH(CH%2#)%7#NO]%n#
+    Nylon type 11 Rilsan (C%11#H%21#ON)%n#  [CH(CH%2#)%10#NO]%n#
+    Octane (C%8#H%18#)
+    Paraffin  (CH%3#(CH%2#)%n\approx23#CH%3#)
+    n-pentane (C%5#H%12#)
+    Photographic emulsion
+    Polyvinyltoluene ([2-CH%3#C%6#H%4#CHCH%2#]%n#)
+    Plutonium dioxide (PuO%2#)
+    Polyacrylonitrile (C%3#H%3#N)%n#
+    Polycarbonate (Lexan, [OC%6#H%4#C(CH%3#)%2#C%6#H%4#OCO]%n#])
+    Polychlorostyrene (C%17#H%18#C%l2#)%n#
+    Polyethylene ([CH%2#CH%2#]%n#)
+    Polyethylene terephthalate (Mylar) (C%10#H%8#O%4#)%n#
+    Polymethylmethacrylate (acrylic, [CH%2#C(CH%3#)(COOCH%3#)]%n#)
+    Polyoxymethylene (CH%2#O)%n#
+    Polypropylene ([CH(CH%3#)CH%2#]%n#)
+    Polystyrene ([C%6#H%5#CHCH%2#]%n#)
+    Polytetrafluoroethylene (Teflon, [CF%2#CF%2#]%n#)
+    Polytrifluorochloroethylene [C%2#F%3#Cl]%n#
+    Polyvinylacetate [CH%2#CHOCOCH%3#]%n#
+    Polyvinyl alcohol (C%2#H3-O-H)%n#
+    Polyvinyl butyral  [C%8#H%13#0%2#]%n#
+    Polyvinylchloride (PVC) [CH%2#CHCl]%n#
+    Polyvinylidene chloride (Saran) (C%2#H%2#Cl%2#)%n#
+    Polyvinylidene fluoride [CH%2#CHF%2#]%n#
+    Polyvinyl pyrrolidone (C%6#H%9#NO)%n#
+    Potassium iodide (KI)
+    Potassium oxide (K%2#O)
+    Propane (C%3#H%8#)
+    Liquid propane (C%3#H%8#)
+    n-propyl alcohol (C%3#H%7#OH)
+    Pyridine C%5#H%5#N
+    Rubber butyl (C%4#H8)%n#
+    Rubber natural (C%5#H8)%n#
+    Rubber neoprene (C%4#H%5#Cl)%n#
+    Silicon dioxide (fused quartz) (SiO%2#)
+    Silver bromide AgBr
+    Silver chloride AgCl
+    Ag halides in phot emulsion
+    Silver iodide AgI
+    Skin (ICRP)
+    Sodium carbonate (Na%2#CO%3#)
+    Sodium iodide (NaI)
+    Sodium monoxide Na%2#O
+    Sodium nitrate NaNO%3#
+    Stilbene (C%6#H%5#)CHCH(C%6#H%5#)
+    Sucrose C%12#H%22#O%11#
+    Terphenyl C%18#H%10#
+    Testes (ICRP)
+    Tetrachloroethylene C%2#C%l4#
+    Thallium chloride (TlCl)
+    Soft tissue (ICRP)
+    Soft tissue (ICRU four-component)
+    Tissue-equivalent gas (Methane based)
+    Tissue-equivalent gas (Propane based)
+    Titanium dioxide (TiO%2#)
+    Toluene (C%6#H%5#CH%3#)
+    Trichloroethylene (C%2#HCl%3#)
+    Triethyl phosphate C%6#H%15#PO%4#
+    Tungsten hexafluoride (WF%6#)
+    Uranium dicarbide UC%2#
+    Uranium monocarbide UC
+    Uranium oxide U-O%2#
+    Urea CO(NH%2#)%2#
+    Valine C%5#H%11#NOi%2#
+    Viton fluoroelastomer (C%5#H%2#F8)%n#
+    Water (liquid) (H%2#O)
+    Water (vapor) (H%2#O)
+    Xylene C%8#H%10#
+    Heavymet as in ATLAS calorimeter
+    Heavymet as in Rochester gamma stop
+    Standard rock
+H   Liquid H--note density shift (H%2#)
+He  Liquid helium (He)
+N   Liquid nitrogen (N%2#)
+O   Liquid oxygen (N%2#)
+F   Liquid fluorine (F%2#)
+Ne  Liquid neon  (Ne)
+Cl  Liquid chlorine (Cl%2#)
+Ar  Liquid argon (Ar)
+Br  Bromine  liquid (Br%2#)
+Kr  Liquid krypton
+Xe  Liquid xenon
+    Solid carbon dioxide (dry ice; CO%2#)
+H   Hydrogen BC liquid DEG calc to check code
+    water as calc from steam to check code
+    Silica aerogel for rho = 0.2 (0.03 H%2#O, 0.97 SiO%2#)
+C   Carbon (gem diamond)
+D   Deuterium gas (D%2#)
+D   Liquid deuterium  (D%2#)
+    Sodium chloride (NaCl)
+    Lead tungstate (PbWO%4#)
+Cf  Californium
+Es  Einsteinium
+Fm  Fermium
+Md  Mendelevium
+No  Nobelium
+Lr  Lawrencium
+Rf  Rutherfordium
+Db  Dubnium
+Sg  Seaborgium
+Bh  Bohrium
+Hs  Hassium
+Mt  Meitnerium
+Ds  Darmstadtium
+Rg  Roentgenium
+    Element 112 (Confirmed but unnamed)
+    Element 113
+    Element 114
+    Element 115
+    Element 116
+    Not yet discovered
+    Element 118
+At  Astatine
+Fr  Francium
+    Water (ice) (H%2#O)
+    Carbon tetrafluoride (CF%4#)
